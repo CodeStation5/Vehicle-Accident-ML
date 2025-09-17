@@ -42,14 +42,15 @@ The dataset is preprocessed with **Pandas** and visualized using **Seaborn** and
 ## Installation
 
 Clone the repo:
-git clone https://github.com/CodeStation5/Vehicle-Accident-ML.git
+`git clone https://github.com/CodeStation5/Vehicle-Accident-ML.git
 cd Vehicle-Accident-ML
+`
 
 Install dependencies:
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 Run the Jupyter Notebook:
-jupyter notebook main.ipynb
+`jupyter notebook main.ipynb`
 
 
 ## Results
